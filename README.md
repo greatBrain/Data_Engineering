@@ -1,4 +1,4 @@
-## FOR PRACTICING D.E. CONCEPTS AND TOOLS
+## DATA ENGINEERING CONCEPTS AND TOOLS PRACTICING
 
 
 The purpose of this repository, based and inspired on this: (https://github.com/danielbeach/data-engineering-practice) is to develop data engineering skills. The topics that these practice problems will cover:
