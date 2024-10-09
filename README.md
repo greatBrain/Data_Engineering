@@ -1,14 +1,11 @@
-# PROJECT #1
+FOR PRACTICING D.E. CONCEPTS AND TOOLS
+========================================
 
-## Weather pipeline
+The purpose of this repository, based and inspired on this: (https://github.com/danielbeach/data-engineering-practice) is to develop data engineering skills. The topics that these practice problems will cover:
 
-Simple introduction pipeline that extract, transform and load (ETL) data from OpenWeather API
-and save it in a Sqlite database. 
-
-
-# PROJECT #2
-
-## Real time processing
-
-Build a simple data pipeline that receives real-time data from a source, 
-processes that data, and stores it in a database.
+Python data processing.
+csv, flat-file, parquet, json, etc.
+SQL database table design.
+Python + Postgres, data ingestion and retrieval.
+PySpark
+Data cleanning / dirty data.
