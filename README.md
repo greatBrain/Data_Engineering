@@ -1,11 +1,11 @@
-FOR PRACTICING D.E. CONCEPTS AND TOOLS
-========================================
+## FOR PRACTICING D.E. CONCEPTS AND TOOLS
+
 
 The purpose of this repository, based and inspired on this: (https://github.com/danielbeach/data-engineering-practice) is to develop data engineering skills. The topics that these practice problems will cover:
 
-Python data processing.
-csv, flat-file, parquet, json, etc.
-SQL database table design.
-Python + Postgres, data ingestion and retrieval.
-PySpark
-Data cleanning / dirty data.
+- Python data processing.
+- csv, flat-file, parquet, json, etc.
+- SQL database table design.
+- Python + Postgres, data ingestion and retrieval.
+- PySpark
+- Data cleanning / dirty data.
