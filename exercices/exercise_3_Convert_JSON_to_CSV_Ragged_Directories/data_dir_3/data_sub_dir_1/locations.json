@@ -1,0 +1,37 @@
+[
+    {
+        "id": "L1",
+        "city": "Nueva York",
+        "country": "EE.UU.",
+        "latitud": 40.7128,
+        "longitud": -74.0060
+    },
+    {
+        "id": "L2",
+        "city": "Toronto",
+        "country": "Canadá",
+        "latitud": 43.65107,
+        "longitud": -79.347015
+    },
+    {
+        "id": "L3",
+        "city": "París",
+        "country": "Francia",
+        "latitud": 48.8566,
+        "longitud": 2.3522
+    },
+    {
+        "id": "L4",
+        "city": "Tokio",
+        "country": "Japón",
+        "latitud": 35.6895,
+        "longitud": 139.6917
+    },
+    {
+        "id": "L5",
+        "city": "Sídney",
+        "country": "Australia",
+        "latitud": -33.8688,
+        "longitud": 151.2093
+    }
+]

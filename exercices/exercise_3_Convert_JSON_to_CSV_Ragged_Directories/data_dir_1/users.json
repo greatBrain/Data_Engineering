@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nombre": "Alice Smith",
+        "edad": 30,
+        "correo": "alice.smith@example.com",
+        "activo": true
+    },
+    {
+        "id": 2,
+        "nombre": "Bob Jones",
+        "edad": 45,
+        "correo": "bob.jones@example.com",
+        "activo": false
+    },
+    {
+        "id": 3,
+        "nombre": "Carla Gomez",
+        "edad": 27,
+        "correo": "carla.gomez@example.com",
+        "activo": true
+    },
+    {
+        "id": 4,
+        "nombre": "Diego Fernández",
+        "edad": 34,
+        "correo": "diego.fernandez@example.com",
+        "activo": true
+    },
+    {
+        "id": 5,
+        "nombre": "Emma Li",
+        "edad": 22,
+        "correo": "emma.li@example.com",
+        "activo": false
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "id": 101,
+        "nombre": "Laptop Pro 15\"",
+        "categoria": "Electrónica",
+        "precio": 1200.99,
+        "disponible": true
+    },
+    {
+        "id": 102,
+        "nombre": "Silla ergonómica",
+        "categoria": "Mobiliario",
+        "precio": 249.99,
+        "disponible": false
+    },
+    {
+        "id": 103,
+        "nombre": "Teléfono XPlus",
+        "categoria": "Electrónica",
+        "precio": 899.50,
+        "disponible": true
+    },
+    {
+        "id": 104,
+        "nombre": "Auriculares Inalámbricos",
+        "categoria": "Accesorios",
+        "precio": 79.99,
+        "disponible": true
+    },
+    {
+        "id": 105,
+        "nombre": "Mesa de Centro",
+        "categoria": "Mobiliario",
+        "precio": 159.00,
+        "disponible": false
+    }
+]

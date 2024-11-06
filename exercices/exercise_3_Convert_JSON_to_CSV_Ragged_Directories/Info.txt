@@ -1,0 +1,5 @@
+In this exercise, we will: 
+
+- Read JSON data from files.
+- Convert this data into a format that can be written to CSV.
+- Write each CSV file with its own structure.
