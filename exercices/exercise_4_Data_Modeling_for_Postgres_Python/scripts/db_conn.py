@@ -15,17 +15,21 @@ def open_conn():
             port = os.getenv('DB_PORT')
         )
         cursor = conn.cursor()
-
-        cursor.execute('SELECT version();')
-        version = cursor.fetchone()
-        print("Postgres version: {}".format(version))
-
+        run_sql_script(cursor) 
 
     except (Exception, psycopg2.Error) as error:
             print("Error when connecting to PostgreSQL", error)
+            return False
 
     finally:
         if conn:
            cursor.close()
            conn.close()
-           return 
+           return True
+
+# Execute sql script
+def run_sql_script(cursor) -> bool:
+    with open('statements.sql', 'r') as sql_file:
+         sql_statements = sql_file.read()
+         cursor.execute(sql_statements)
+         return True
